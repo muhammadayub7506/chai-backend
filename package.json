@@ -1,0 +1,16 @@
+{
+  "name": "backendyoutubeseries",
+  "version": "1.0.0",
+  "description": "This is a Series in which we will make a youtube alternative Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Muhammad Ayub",
+  "license": "ISC"
+}
